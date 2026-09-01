@@ -11,7 +11,6 @@ Une collection de directives méthodologiques (`skill.md`) conçues pour guider 
 
 - **`/noe-skills/official-skills`** : Grilles d'évaluation et templates méthodologiques standards du bootcamp Noé (Discovery, Product Strategy, Delivery).
 - **`/noe-skills/custom-skills`** : Skills et frameworks sur mesure créés et affinés au fil des cas pratiques et projets Noé.
-  - [`discovery-user-story-writer.md`](./noe-skills/custom-skills/discovery-user-story-writer.md) : Transforme un besoin métier ou insight de user research en user stories INVEST avec critères d'acceptation.
 
 ---
 
