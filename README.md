@@ -11,6 +11,10 @@ Une collection de directives méthodologiques (`skill.md`) conçues pour guider 
 
 - **`/noe-skills/official-skills`** : Grilles d'évaluation et templates méthodologiques standards du bootcamp Noé (Discovery, Product Strategy, Delivery).
   - [`interview-script-builder.md`](./noe-skills/official-skills/interview-script-builder.md) : Construit un guide d'entretien de discovery (warm-up, comportements passés, exploration du problème, branches, wrap-up) à partir d'une décision et d'objectifs d'apprentissage.
+  - [`user-research.md`](./noe-skills/official-skills/user-research.md) : Planifie et synthétise la recherche utilisateur (interviews, sondages, tests d'usabilité, mining de feedback).
+  - [`macro-solution-brainstorm.md`](./noe-skills/official-skills/macro-solution-brainstorm.md) : Transforme une liste de problèmes en solutions macro via une session divergence/convergence structurée.
+  - [`prd-writer.md`](./noe-skills/official-skills/prd-writer.md) : Rédige un PRD/spec produit orienté décision (problème, métriques, exigences vérifiables, edge cases).
+  - [`jira-story-writer.md`](./noe-skills/official-skills/jira-story-writer.md) : Découpe un PRD en epic et user stories INVEST prêtes pour import Jira.
 - **`/noe-skills/custom-skills`** : Skills et frameworks sur mesure créés et affinés au fil des cas pratiques et projets Noé.
 
 ---
