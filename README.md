@@ -10,6 +10,7 @@ Une collection de directives méthodologiques (`skill.md`) conçues pour guider 
   - [`tech-transcript-distiller.md`](./knowledge/tech-transcript-distiller.md) : Extraction structurée et actionnable de transcripts tech/produit.
 
 - **`/noe-skills/official-skills`** : Grilles d'évaluation et templates méthodologiques standards du bootcamp Noé (Discovery, Product Strategy, Delivery).
+  - [`interview-script-builder.md`](./noe-skills/official-skills/interview-script-builder.md) : Construit un guide d'entretien de discovery (warm-up, comportements passés, exploration du problème, branches, wrap-up) à partir d'une décision et d'objectifs d'apprentissage.
 - **`/noe-skills/custom-skills`** : Skills et frameworks sur mesure créés et affinés au fil des cas pratiques et projets Noé.
 
 ---
