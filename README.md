@@ -13,9 +13,6 @@ Une collection de directives méthodologiques (`skill.md`) conçues pour guider 
 - **`/noe-skills/custom-skills`** : Skills et frameworks sur mesure créés et affinés au fil des cas pratiques et projets Noé.
   - [`discovery-user-story-writer.md`](./noe-skills/custom-skills/discovery-user-story-writer.md) : Transforme un besoin métier ou insight de user research en user stories INVEST avec critères d'acceptation.
 
-- **`/sandbox`** : Skills de test et d'exemples rapides, sans lien avec le Product Management ou le bootcamp Noé.
-  - [`test-hello-responder.md`](./sandbox/test-hello-responder.md) : Répond poliment à une salutation simple (skill de test).
-
 ---
 
 ## 🚀 Utilisation
