@@ -15,6 +15,7 @@ Une collection de directives méthodologiques (`skill.md`) conçues pour guider 
   - [`user-research.md`](./noe-skills/official-skills/user-research.md) : Planifie et synthétise la recherche utilisateur (interviews, sondages, tests d'usabilité, mining de feedback).
   - [`macro-solution-brainstorm.md`](./noe-skills/official-skills/macro-solution-brainstorm.md) : Transforme une liste de problèmes en solutions macro via une session divergence/convergence structurée.
   - [`prd-writer.md`](./noe-skills/official-skills/prd-writer.md) : Rédige un PRD/spec produit orienté décision (problème, métriques, exigences vérifiables, edge cases).
+  - [`noe-spec-checklist.md`](./noe-skills/official-skills/noe-spec-checklist.md) : Gabarit et checklist qualité pour rédiger ou relire une spec de fonctionnalité au format Noé (Context, User Stories, Releases, Acceptance Criteria GIVEN/WHEN/THEN, Management Rules, Edge Cases, Tracking, Rollout, Testing) — inclut un volet dédié aux fonctionnalités IA générative.
   - [`jira-story-writer.md`](./noe-skills/official-skills/jira-story-writer.md) : Découpe un PRD en epic et user stories INVEST prêtes pour import Jira.
 - **`/noe-skills/custom-skills`** : Skills et frameworks sur mesure créés et affinés au fil des cas pratiques et projets Noé.
 
